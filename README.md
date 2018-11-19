@@ -23,7 +23,7 @@ Please fork this respository and then issue pull request for review.
 
 ### Copyright
 
-2018 Git.learning
+2018 Git.learning. All rights reserved.
 
 # github_workload
 my workflow 
