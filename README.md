@@ -5,7 +5,8 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
 
-This example is to show different parts of the Git respository and various commmands using a web project.
+This example is to show different parts of the Git respository and various commmands using a web project.Adding a oneliner to show 
+rebase in Git.
 
 ## Purpose
 
