@@ -3,23 +3,23 @@
 
 This is a simple website project for showing how to use Git and Github together.
 
-##Introduction
+## Introduction
 
 This example is to show different parts of the Git respository and various commmands using a web project.
 
-##Purpose
+## Purpose
 
 As stated above , the main purpose is to provide examples for Git training demos.
 
-##Deployment
+## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
 
-##How To Contribute
+## How To Contribute
 
 Please fork this respository and then issue pull request for review.
 
-###Copyright
+### Copyright
 
 2018 Git.learning
 
