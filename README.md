@@ -17,6 +17,11 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ##How To Contribute
 
+
+###Copyright
+
+2018 Git.learning
+
 # github_workload
 my workflow 
 >>>>>>> ae0f59f67239b82fddc18ad3dd2bb066d39a6431
